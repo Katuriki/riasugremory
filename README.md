@@ -12,10 +12,14 @@
 Contact > [Telegram](https://t.me/riasugremory)
 <details align="center">
 <summary> <b> <i> <samp> STATS </samp></i></b></summary>
+  
+  
 ![Rias's Github stats](https://github-readme-stats.vercel.app/api?username=RiasGr3m0ry&show_icons=true&theme=dracula)
+
+
 <img src="https://telegra.ph/file/0ee68ccdace0ce63e3ad7.gif"/>
   
-  
+</br>  
 <center><b> Have a nice day :) </b></center>
 
 
