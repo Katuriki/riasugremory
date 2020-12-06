@@ -2,7 +2,7 @@
 ![gif](https://telegra.ph/file/0dda479e36941c98c5f33.gif)
 
 
-⭐️ From [RiasGr3m0ry](https://github.com/RiasGr3m0ry)
+⭐️ From [riasugremory](https://github.com/riasugremory)
 
 
 ### Current Projects: 
