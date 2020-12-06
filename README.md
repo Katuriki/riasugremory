@@ -14,7 +14,7 @@ Contact > [Telegram](https://t.me/riasugremory)
 <summary> <b> <i> <samp> STATS </samp></i></b></summary>
   
   
-![Rias's Github stats](https://github-readme-stats.vercel.app/api?username=RiasGr3m0ry&show_icons=true&theme=dracula)
+![Rias's Github stats](https://github-readme-stats.vercel.app/api?username=riasugremory&show_icons=true&theme=dracula)
 
 
 <img src="https://telegra.ph/file/0ee68ccdace0ce63e3ad7.gif"/>
